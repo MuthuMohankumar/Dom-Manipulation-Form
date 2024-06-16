@@ -1,6 +1,6 @@
-This form is created dynamiclly using DOM
+This form is created dynamically using DOM
 
-Once form submits, it will dynamically updates in table bellow.
+Once form submits, it will dynamically updates in table.
 
 Tech used:
 HTML, Botstrap, DOM
